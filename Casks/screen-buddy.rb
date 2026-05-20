@@ -1,6 +1,6 @@
 cask "screen-buddy" do
-  version "1.0.13"
-  sha256 "304286a80945a183abac153f08646fb078079a8c91ee0b9a55a38a696421c1b7"
+  version "1.0.15"
+  sha256 "7a6a42999a02f8261f1378ccf69b51e6b37c8d52f0d5f66e06ba4edc39231f5c"
 
   url "https://github.com/box-kr/screen-buddy/releases/download/v#{version}/ScreenBuddy-#{version}.zip"
   name "ScreenBuddy"
